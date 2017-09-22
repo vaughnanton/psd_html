@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+p {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.pheader{
+  display: inline;
+  color: #ffffff;
+}
+
+.header {
+  height: 30px;
+  width: 100%;
+  background: #ff6200;
+}
+
+#header-text {
+  color: #b32d00;
+}
+
+.left {
+  float:left;
+  margin-top: 5px;
+  margin-left: 40px;
+}
+
+.right {
+  float:right;
+  margin-right: 40px;
+  margin-top: 5px;
+}
