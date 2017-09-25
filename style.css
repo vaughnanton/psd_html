@@ -71,11 +71,49 @@ p {
 .pages {
   color:#a9a9a9;
   font-size:12px;
-  margin-top:40px;
-  margin-bottom:40px;
   margin-left:80px;
+}
+
+.pages-spacing {
+  margin-top:38px;
+  margin-bottom:38px;
 }
 
 #contact {
   color:#000000;
+}
+
+.page-title {
+  color:#ff6200;
+  font-weight:bold;
+  font-size:23px;
+  margin-left:83px;
+}
+
+.info {
+  margin-top:15px;
+  margin-left:83px;
+  margin-bottom:40px;
+}
+
+.form-left {
+  margin-left:83px;
+  float:left;
+}
+
+.form-right {
+  margin-right:400px;
+  float:right;
+}
+
+.form-title {
+  margin-top:10px;
+  color:#ff6200;
+  font-size:20px;
+}
+
+.bars {
+  width:400px;
+  height:5px;
+  background-color: #fff;
 }
