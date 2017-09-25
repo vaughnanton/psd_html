@@ -181,7 +181,13 @@ form {
 }
 
 img {
-  width:1.5%;
+  display:block;
+  width:2.4%;
   padding:2px;
   float:right;
+  filter:grayscale(100%);
+}
+
+.images {
+  margin-right:389px;
 }
